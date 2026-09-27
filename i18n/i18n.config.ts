@@ -23,10 +23,15 @@ export default defineI18nConfig(() => ({
         "A celebration of the joy of life, with flamming staffs in a handstand and gravity defying butt-hooping.",
       stone:
         'Philippe has created several shorter performances, many between 5-15 minutes. These include "Stone", which explores physicality, dramaturgy, and dance through manipulation of the contact staff. Philippe also regularly performs a wide range of mime, clown, and fire-spinning pieces.',
-      stone_short: "A powerful exploration of technical virtuosity with the contact staff.",
+      stone_short:
+        "A powerful exploration of technical virtuosity with the contact staff.",
+      hophophoop:
+        "No music, no words, just a some great hulahoop tricks and a hilarious delivery.",
+      hophophoop_short: "simplicity meets comedy and butthooping.",
       forgotten:
         "A mesmirising and powerful piece, Forgotten explores the depths of minimalism using the contact ball.",
-      forgotten_short: "An exploration of the depths of minimalism using the contact ball.",
+      forgotten_short:
+        "An exploration of the depths of minimalism using the contact ball.",
       length: "Length",
       stage: "Preferred stage",
       indoor: "Indoor",
@@ -41,8 +46,10 @@ export default defineI18nConfig(() => ({
       calendar_title: "Calendar",
       calendar_upcoming_title: "Upcoming Dates:",
       calendar_past_title: "Past Performances:",
-      calendar_dates_upcoming: "Dates for 2026 coming soon!",
+      calendar_dates_upcoming: "Dates for 2027 coming soon!",
       calendar_dates_past: "Past Performances",
+      calendar_2026:
+        "20-21st March: HopHopHoop at Zirkusmond, Berlin, Germany\n\n16th May: HopHopHoop & Stone at TheaterPool, Berlin, Germany\n\n31st May: Lulu at 90 Mil, Berlin, Germany\n\n6th June: Ah Bah Bravo! at Jahninselfest, Regensburg, Germany\n\n16th July: Stone at Nirgendwo, Berlin, Germany\n\n1st-2nd August: Ah Bah Bravo! at Gauklerfestung, Koblenz, Germany\n\n19th-22nd August: Ah Bah Bravo! & Lulu at Festival d'Aurillac, Aurillac, France\n\n26th September: Stone at Zirkus Mond, Berlin, Germany\n\n27th September: Ah Bah Bravo! at StraßenFifi, Gütersloh, Germany\n\n2nd October: Stone & HopHopHoop at Perlebang Festival, Perleberg, Germany\n\n9th-10th October: Stone at Katapult, Berlin, Germany",
       calendar_2025:
         "27-22th February: Lulu & Ah Bah Bravo! at Kavc Festival, Ljubljana, Slovenia\n\n18th April: Lulu at Aichtal Juggling Convention, Aichtal, Germany\n\n4th May: Ah Bah Bravo! at Vielvalterei Festival, Altenmedingen, Germany\n\n11th May: Ah Bah Bravo! at Zirkus Mond, Berlin, Germany\n\n29th-31st May: Ah Bah Bravo! at Hut Festival, Chemitz, Germany\n\n28th June: Bunte Parade, Regensburg, Germany\n\n10-11th July: Ah Bah Bravo at Wiener Sommer Fest, Vienna, Austria\n\n26th July: Ah Bah Bravo! at strassen Theater im weitesten Sinne, Greifswald, Germany\n\n6th-7th September: Stone at Swiss Juggling Convention, Switzerland",
       calendar_2024:
@@ -65,7 +72,8 @@ export default defineI18nConfig(() => ({
       reviewsSubtitle: "What people are saying",
       thankYou: "Thank you for your review!",
       noReviews: "No reviews yet. Be the first to leave one!",
-      formSubtitle: "I would love to hear what you thought of my performance. Don't be shy!",
+      formSubtitle:
+        "I would love to hear what you thought of my performance. Don't be shy!",
       yourOrganisation: "Your organisation",
       organisationHelp: "E.g. artistic director at Cirque du Soleil",
       anonymous: "Leave blank to stay anonymous",
@@ -109,7 +117,12 @@ export default defineI18nConfig(() => ({
         "Une plongée dans les profondeurs du minimalisme à travers la manipulation de la balle de contact.",
       stone:
         'Philippe a créé plusieurs performances courtes, souvent entre 5 et 15 minutes. Parmi elles, "Stone", qui explore la physicalité, la dramaturgie et la danse à travers la manipulation du bâton de contact. Philippe se produit également régulièrement dans une large gamme de spectacles de mime, de clown et de jonglerie avec le feu.',
-      stone_short: "Une exploration puissante de la virtuosité technique avec le bâton de contact.",
+      stone_short:
+        "Une exploration puissante de la virtuosité technique avec le bâton de contact.",
+      hophophoop:
+        "Pas de musique, pas de mots, juste quelques superbes tricks de hula-hoop et une présentation hilarante",
+      hophophoop_short:
+        "La simplicité marrié à la comédie, avec du hoop sur les fesses.",
       length: "Durée",
       stage: "Préférence de scène",
       indoor: "intérieur",
@@ -124,8 +137,10 @@ export default defineI18nConfig(() => ({
       calendar_title: "Calendrier",
       calendar_upcoming_title: "Dates à venir :",
       calendar_past_title: "Performances passées :",
-      calendar_dates_upcoming: "Les dates pour 2025 arrivent bientôt !",
+      calendar_dates_upcoming: "Les dates pour 2027 arrivent bientôt !",
       calendar_dates_past: "Performances passées",
+      calendar_2026:
+        "20-21 mars : HopHopHoop au Zirkusmond, Berlin, Allemagne\n\n16 mai : HopHopHoop & Stone au TheaterPool, Berlin, Allemagne\n\n31 mai : Lulu au 90 Mil, Berlin, Allemagne\n\n6 juin : Ah Bah Bravo ! au Jahninselfest, Regensburg, Allemagne\n\n16 juillet : Stone au Nirgendwo, Berlin, Allemagne\n\n1-2 août : Ah Bah Bravo ! au Gauklerfestung, Koblenz, Allemagne\n\n19-22 août : Ah Bah Bravo ! & Lulu au Festival d'Aurillac, Aurillac, France\n\n26 septembre : Stone au Zirkus Mond, Berlin, Allemagne\n\n27 septembre : Ah Bah Bravo ! au StraßenFifi, Gütersloh, Allemagne\n\n2 octobre : Stone & HopHopHoop au Perlebang Festival, Perleberg, Allemagne\n\n9-10 octobre : Stone au Katapult, Berlin, Allemagne",
       calendar_2025:
         "27-22 février : Lulu & Ah Bah Bravo! au Kavc Festival, Ljubljana, Slovénie\n\n18 avril : Lulu à l’Aichtal Juggling Convention, Aichtal, Allemagne\n\n4 mai : Ah Bah Bravo! au Vielvalterei Festival, Altenmedingen, Allemagne\n\n11 mai : Ah Bah Bravo! au Zirkus Mond, Berlin, Allemagne\n\n29-31 mai : Ah Bah Bravo! au Hut Festival, Chemitz, Allemagne\n\n28 juin : Bunte Parade, Regensburg, Allemagne\n\n10-11 juillet : Ah Bah Bravo au Wiener Sommer Fest, Vienne, Autriche\n\n26 juillet : Ah Bah Bravo! au strassen Theater im weitesten Sinne, Greifswald, Allemagne\n\n6-7 septembre : Stone à la Swiss Juggling Convention, Suisse",
       calendar_2024:

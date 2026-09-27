@@ -57,7 +57,6 @@ export const useProjects = () => {
         },
       ],
     },
-
     {
       title: "Stone",
       videoId: "9cfrJuHebWM",
@@ -66,9 +65,16 @@ export const useProjects = () => {
       stage: "flexible",
     },
     {
+      title: "Hophophoop",
+      videoId: "SPT8U0nSPLs",
+      id: 4,
+      length: "6",
+      stage: "flexible",
+    },
+    {
       title: "Forgotten",
       videoId: "_9mTJzKfU1s",
-      id: 4,
+      id: 5,
       length: "5",
       stage: "indoor",
     },
