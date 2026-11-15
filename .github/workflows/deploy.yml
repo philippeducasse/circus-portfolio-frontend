@@ -50,7 +50,7 @@ jobs:
             docker stop philocircus || true
             docker rm philocircus || true
             docker run -d \
-              -p 3000:3000 \
+              -p 127.0.0.1:3000:3000 \
               --network philocircus_net \
               --name philocircus \
               -e NUXT_API_URL=${{ secrets.NUXT_API_URL }} \
